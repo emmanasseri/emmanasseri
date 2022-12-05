@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+
+My name is Emma Nasseri, and I'm currently a third-year undergraduate student in Computer Science at the University of Kansas! :)
+
 
 <!--
 **emmanasseri/emmanasseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

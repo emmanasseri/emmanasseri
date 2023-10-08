@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Emma Nasseri, and I'm currently a third-year undergraduate student in Computer Science at the University of Kansas! :)
+My name is Emma Nasseri, and I'm currently a fourth-year undergraduate student in Computer Science and Visual Arts at the University of Kansas! :)
 
 
 <!--

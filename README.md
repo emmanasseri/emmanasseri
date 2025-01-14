@@ -11,12 +11,14 @@ Outside of coding, some of my interests are
 - 🌱 Horticulture
 
 ## Currently Working On
-- **Blockchain Research** @ the [Spencer Museum of Art]([url](https://spencerart.ku.edu/))
-- **Building** [Community.cafe]([url](https://community.cafe/))
+- 👩‍🔬 **Blockchain Research** @ the [Spencer Museum of Art](https://spencerart.ku.edu/)
+- ☕️ **Building** [Community.cafe](https://community.cafe/)
 
 ## Background
 
 - Studied **Computer Science** + **Visual Arts** @ the University of Kansas
+    - Awarded **2024 Sara and Mary Edwards Paretsky Award for Creativity**
+    - [University Scholar](https://honors.ku.edu/explore/opportunities/university-scholars-and-global-scholars)
 - Fall 2024 **Developer Advocate Intern** @ Ripple
 - **Founder** @ the [Kansas Blockchain Fellowship](https://www.kansasblockchain.org/) (watch our [recap video](https://www.youtube.com/watch?v=NCb_VALLJcw)!)
     - Awarded [Ripple UBRI Impact Award](https://i2s-research.ku.edu/news/article/ku-student-receives-leadership-award-for-blockchain-research-initiative-on-international-stage)
@@ -26,7 +28,7 @@ Outside of coding, some of my interests are
 - 2021-2023 **SWE Intern** @ Security Benefit
 
 
-## Hackathon Wins
+## Hackathon Wins 🏆
 
 - Solo Hackathon Winner @ **[HackKU]([url](https://hackku.org/))** 2024 with [Listart](https://devpost.com/software/listart)
     - ***1st Prize General Track***

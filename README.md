@@ -1,25 +1,47 @@
 ### Hello!
 
-My name is Emma, and I'm currently in my final year at the University of Kansas, studying Computer Science and Visual Arts! 
-
-I am a web3 software engineer, community builder, and generally creative person. 
+My name is Emma, and I'm a 👩‍💻 web3 developer + 🖼️ visual artist.
 
 I care about decentralization and building technology embedded with compassion.
 
-I'm a generalist with specific professional experience in 
-- 👩‍💻 Software Engineering
-- 💵 Venture Capital
-- 🖼️ Visual Arts
-- 📈 Marketing
-
-I'm seeking roles in
-- 🏗️ web3 product management
-- 👩‍💻 web3 software engineering
-
 Outside of coding, some of my interests are 
-- 🎨 painting
-- 🩰 ballet classes 
-- 👽 my sci fi book club 
+- 🎨 Painting
+- 🩰 Ballet 
+- 👽 Science Fiction
+- 🌱 Horticulture
+
+## Currently Working On
+- **Blockchain Research** @ the [Spencer Museum of Art]([url](https://spencerart.ku.edu/))
+- **Building** [Community.cafe]([url](https://community.cafe/))
+
+## Background
+
+- Studied **Computer Science** + **Visual Arts** @ the University of Kansas
+- Fall 2024 **Developer Advocate Intern** @ Ripple
+- **Founder** @ the [Kansas Blockchain Fellowship](https://www.kansasblockchain.org/) (watch our [recap video](https://www.youtube.com/watch?v=NCb_VALLJcw)!)
+    - Awarded [Ripple UBRI Impact Award](https://i2s-research.ku.edu/news/article/ku-student-receives-leadership-award-for-blockchain-research-initiative-on-international-stage)
+- Summer 2024 **SWE Intern** @ Spotlight AR
+- 2022-2024 **President** @ the [KU Blockchain Institute](https://www.kublockchain.com/)
+    - [Learn more about our DAO](https://docs.kublockchain.com/)!
+- 2021-2023 **SWE Intern** @ Security Benefit
+
+
+## Hackathon Wins
+
+- Solo Hackathon Winner @ **[HackKU]([url](https://hackku.org/))** 2024 with [Listart](https://devpost.com/software/listart)
+    - ***1st Prize General Track***
+    - ***1st Prize XRPL Track***
+- **ETHDenver 2024** ***Best New Subgraph*** with @hudsonhrh for [Poa](https://poa.community/)
+- **ETHGlobal SF 2024** ***Most Creative Use Case on Story Protocol (2nd Place)*** for [my own words](https://ethglobal.com/showcase/my-own-words-9uap2)
+
+### Hackathons Hosted
+- [Kansas Blockchain Fellowship Capstones](https://kbf-capstones-24.devpost.com/)
+- [XRPL Student Builder Residency](https://www.linkedin.com/posts/ripple-xrpl_introducing-the-xrpl-student-builder-residency-activity-7249516044686352385-ykRG/)
+
+
+
+
+
 
 <!--
 **emmanasseri/emmanasseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

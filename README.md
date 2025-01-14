@@ -13,6 +13,7 @@ Outside of coding, some of my interests are
 ## Currently Working On
 - 👩‍🔬 **Blockchain Research** @ the [Spencer Museum of Art](https://spencerart.ku.edu/)
 - ☕️ **Building** [Community.cafe](https://community.cafe/)
+- 🪟 **Stained glass** + 🎨 **oil painting**
 
 ## Background
 
